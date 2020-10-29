@@ -1,0 +1,19 @@
+{
+    "name": "jaruf/loib",
+    "description": "Listando Lois e gerando pdf",
+    "authors": [
+        {
+            "name": "jarufino",
+            "email": "jarufino@bol.com.br"
+        }
+    ],
+    "require": {
+        "google/apiclient": "2.0",
+        "dompdf/dompdf": "^0.8.6"
+    },
+    "autoload":{
+        "psr-4":{
+            "Classes\\":"../class"
+        }
+    }
+}

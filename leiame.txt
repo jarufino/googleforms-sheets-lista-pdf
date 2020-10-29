@@ -1,0 +1,4 @@
+criar credentials no site da api do google
+o webdesign em foco ensina com mais detalhes esta parte
+o código está aí
+dompdf compatível com php 7.1.x em diante
